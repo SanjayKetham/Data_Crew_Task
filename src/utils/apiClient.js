@@ -1,7 +1,7 @@
 import { initialClients, initialPool } from '../data/profiles';
 import { calculateCompatibility, generateEmailIntro } from './matchingAlgo';
 
-const BASE_URL = 'http://localhost:5000/api';
+const BASE_URL = 'https://data-crew-task.onrender.com/api';
 
 // Helper to check if backend is online
 async function checkBackend() {
