@@ -6,7 +6,7 @@ A premium, full-stack internal CRM dashboard and algorithmic matchmaking portal 
 
 ## 🚀 Deliverables
 
-* **Live Hosted Link**: [https://data-crew-task.vercel.app](https://data-crew-task.vercel.app) *(Replace with your actual Vercel live URL)*
+* **Live Hosted Link**: [https://data-crew-task.vercel.app](https://data-crew-task.vercel.app/) 
 * **GitHub Repository**: [https://github.com/SanjayKetham/Data_Crew_Task](https://github.com/SanjayKetham/Data_Crew_Task)
 * **Sample Login Credentials**:
   * **Username**: `matchmaker@datecrew.com`
